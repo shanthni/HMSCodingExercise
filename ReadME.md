@@ -9,3 +9,5 @@
 
 1. cd into ./front-end
 2. Run npm start
+
+![image](https://github.com/shanthni/HMSCodingExercise/assets/57296126/18822c50-9d92-4051-b216-b5c96b0c07ab)
